@@ -131,10 +131,7 @@ def drawLetters():
             break
         # changes number of sides
         turns = 2
-    
-    
-    
-
+        
 drawBorder()
     
 
