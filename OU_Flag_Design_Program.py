@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 import turtle
 
 t = turtle.Turtle()
